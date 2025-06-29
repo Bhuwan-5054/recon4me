@@ -45,7 +45,7 @@ mkdir -p ~/.gf && cp ~/.gf-patterns/*.json ~/.gf/
 Clone the repo and run the installer:
 
 ```bash
-git clone https://github.com/YOURUSERNAME/recon4me.git
+git clone https://github.com/Bhuwan-5054/recon4me.git
 cd recon4me
 chmod +x recon4me install.sh
 ./install.sh
