@@ -71,8 +71,3 @@ Results will be saved in a `recon_targetdomain/` folder, and zipped for convenie
 
 ## 📜 Legal
 Only use this tool on domains you have **explicit permission** to test. Unauthorized scanning is illegal.
-
----
-
-## 🐉 Author
-Kali GPT - https://chat.openai.com/g/g-fmLSgXrKN-kali-gpt
